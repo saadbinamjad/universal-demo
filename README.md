@@ -1,6 +1,6 @@
 #Few Pointers:
 
-It is an working demo of this universal rendering story: vhttps://github.com/angular/angular-cli/wiki/stories-universal-rendering/fd4cbdda6e45353d8561a12d9ed150fedc893554
+It is an working demo of this universal rendering story: https://github.com/angular/angular-cli/wiki/stories-universal-rendering/fd4cbdda6e45353d8561a12d9ed150fedc893554
 
 This builds the client application in dist/
 $ ng build --prod
