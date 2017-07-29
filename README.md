@@ -1,3 +1,13 @@
+#Few Pointers:
+
+It is an working demo of this universal rendering story: vhttps://github.com/angular/angular-cli/wiki/stories-universal-rendering/fd4cbdda6e45353d8561a12d9ed150fedc893554
+
+This builds the client application in dist/
+$ ng build --prod
+
+This builds the server bundle in dist-server/
+$ ng build --prod --app 1
+
 # UniversalDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.5.
